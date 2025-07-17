@@ -119,7 +119,7 @@ Enter choice [1-3]: 1
 ## 📜 License
 
 MIT License  
-© 2025 [adeftriangga](https://github.com/adefirmant)
+© 2025 [adeftriangga](https://github.com/adeftriangga)
 
 ---
 
