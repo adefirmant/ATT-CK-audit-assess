@@ -93,26 +93,6 @@ Stored in the `/data` directory:
 
 ---
 
-## 📂 Folder Structure
-
-```
-audittack/
-├── audittack.py
-├── utils/
-│   ├── attck_client.py
-│   ├── audit_generator.py
-│   └── writer.py
-├── data/
-│   ├── enterprise-attack.json
-│   ├── mobile-attack.json
-│   └── ics-attack.json
-├── output/
-│   └── audit_checklist.xlsx
-└── README.md
-```
-
----
-
 ## 🧪 Sample Run
 
 ```bash
