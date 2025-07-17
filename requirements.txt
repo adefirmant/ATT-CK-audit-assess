@@ -1,0 +1,4 @@
+taxii2-client>=2.1.0
+stix2
+pandas
+xlsxwriter

@@ -1,0 +1,7 @@
+mitigation_templates:
+  Execution Prevention: "Ensure execution of unauthorized programs or scripts is restricted using application control or similar mechanisms."
+  User Training: "Ensure users are trained to recognize and report {technique_name} attempts."
+  Network Segmentation: "Ensure access to resources targeted by {technique_name} is limited via segmentation and ACLs."
+
+detection_templates:
+  generic: "Ensure logging and alerting are implemented for {technique_name} activity to detect and respond to suspicious behavior."
