@@ -21,8 +21,8 @@ AudiTT&CK-is a CLI tool that generates predictive cybersecurity audit checklists
 Clone the repo and install required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/threatauditgen.git
-cd threatauditgen
+git clone https://github.com/adefirmant/AudiTT-CK.git
+cd audiTT-CK
 pip install -r requirements.txt
 ```
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ```bash
-python threatauditgen.py --groups APT29 FIN7 --domain enterprise
+python audittack.py --groups APT29 FIN7 --domain enterprise
 ```
 
 ### Options
